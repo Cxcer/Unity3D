@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukeDemo.Plugins", "MukeDemo.Plugins.csproj", "{B0427BF0-7125-22F7-73A8-5995793F465F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukeDemo", "MukeDemo.csproj", "{DD21D367-5A72-3C33-1B72-7E845A3DCD2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukeDemo.Editor", "MukeDemo.Editor.csproj", "{46A191FB-8709-13F5-5910-94E2E4F9F5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0427BF0-7125-22F7-73A8-5995793F465F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0427BF0-7125-22F7-73A8-5995793F465F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0427BF0-7125-22F7-73A8-5995793F465F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0427BF0-7125-22F7-73A8-5995793F465F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD21D367-5A72-3C33-1B72-7E845A3DCD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD21D367-5A72-3C33-1B72-7E845A3DCD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD21D367-5A72-3C33-1B72-7E845A3DCD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD21D367-5A72-3C33-1B72-7E845A3DCD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A191FB-8709-13F5-5910-94E2E4F9F5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A191FB-8709-13F5-5910-94E2E4F9F5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A191FB-8709-13F5-5910-94E2E4F9F5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A191FB-8709-13F5-5910-94E2E4F9F5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
